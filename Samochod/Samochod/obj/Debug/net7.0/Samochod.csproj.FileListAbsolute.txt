@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Samochod\Samochod\bin\Debug\net7.0\Samochod.exe
+C:\Users\Student\Desktop\Samochod\Samochod\bin\Debug\net7.0\Samochod.deps.json
+C:\Users\Student\Desktop\Samochod\Samochod\bin\Debug\net7.0\Samochod.runtimeconfig.json
+C:\Users\Student\Desktop\Samochod\Samochod\bin\Debug\net7.0\Samochod.dll
+C:\Users\Student\Desktop\Samochod\Samochod\bin\Debug\net7.0\Samochod.pdb
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.AssemblyInfo.cs
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.dll
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\refint\Samochod.dll
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.pdb
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\Samochod.genruntimeconfig.cache
+C:\Users\Student\Desktop\Samochod\Samochod\obj\Debug\net7.0\ref\Samochod.dll
