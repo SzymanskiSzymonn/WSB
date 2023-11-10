@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\net7.0\Dziedziczenie.exe
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\net7.0\Dziedziczenie.deps.json
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\net7.0\Dziedziczenie.runtimeconfig.json
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\net7.0\Dziedziczenie.dll
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\net7.0\Dziedziczenie.pdb
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.AssemblyInfo.cs
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.dll
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\refint\Dziedziczenie.dll
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.pdb
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\Dziedziczenie.genruntimeconfig.cache
+C:\Users\Student\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\net7.0\ref\Dziedziczenie.dll
