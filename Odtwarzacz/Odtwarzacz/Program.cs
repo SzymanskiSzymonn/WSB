@@ -133,13 +133,14 @@
             Player player = new Player();
             while (true)
             {
+                int genre = PickGenre();
                 Console.WriteLine("Podaj tytuł utworu: ");
                 string title = Console.ReadLine();
 
                 Console.WriteLine("Podaj wykonawcę: ");
                 string author = Console.ReadLine();
 
-                switch(PickGenre())
+                switch(genre)
                 {
                     case 1:
                         Jazz jazz = new Jazz(title, author);
