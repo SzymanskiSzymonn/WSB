@@ -122,6 +122,7 @@
                 Console.Write(">>");
                 Thread.Sleep(500);
             }
+            Remove(songNumber);
         }
     }
 
