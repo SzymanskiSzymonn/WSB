@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\bin\Debug\net7.0\Zdzarzenia.exe
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\bin\Debug\net7.0\Zdzarzenia.deps.json
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\bin\Debug\net7.0\Zdzarzenia.runtimeconfig.json
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\bin\Debug\net7.0\Zdzarzenia.dll
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\bin\Debug\net7.0\Zdzarzenia.pdb
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.AssemblyInfo.cs
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.dll
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\refint\Zdzarzenia.dll
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.pdb
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\Zdzarzenia.genruntimeconfig.cache
+C:\Users\Student\Desktop\Zdzarzenia\Zdzarzenia\obj\Debug\net7.0\ref\Zdzarzenia.dll
