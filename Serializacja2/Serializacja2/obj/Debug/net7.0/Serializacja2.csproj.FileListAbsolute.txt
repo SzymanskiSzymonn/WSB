@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\bin\Debug\net7.0\Serializacja2.exe
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\bin\Debug\net7.0\Serializacja2.deps.json
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\bin\Debug\net7.0\Serializacja2.runtimeconfig.json
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\bin\Debug\net7.0\Serializacja2.dll
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\bin\Debug\net7.0\Serializacja2.pdb
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.AssemblyInfo.cs
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.dll
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\refint\Serializacja2.dll
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.pdb
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\Serializacja2.genruntimeconfig.cache
+C:\Users\Student\Desktop\Serializacja2\Serializacja2\obj\Debug\net7.0\ref\Serializacja2.dll
