@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Serializacja\Serializacja\bin\Debug\net7.0\Serializacja.exe
+C:\Users\Student\Desktop\Serializacja\Serializacja\bin\Debug\net7.0\Serializacja.deps.json
+C:\Users\Student\Desktop\Serializacja\Serializacja\bin\Debug\net7.0\Serializacja.runtimeconfig.json
+C:\Users\Student\Desktop\Serializacja\Serializacja\bin\Debug\net7.0\Serializacja.dll
+C:\Users\Student\Desktop\Serializacja\Serializacja\bin\Debug\net7.0\Serializacja.pdb
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.AssemblyInfo.cs
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.dll
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\refint\Serializacja.dll
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.pdb
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\Serializacja.genruntimeconfig.cache
+C:\Users\Student\Desktop\Serializacja\Serializacja\obj\Debug\net7.0\ref\Serializacja.dll
